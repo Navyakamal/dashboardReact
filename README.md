@@ -1,5 +1,7 @@
 This project provides a structured approach to managing dashboard-related functionalities in a React application.
+
 Features:
+
 Dashboard Service:
 1.Handles dashboard operations like fetching and processing data.
 2.Data Fetching: Retrieves data from a local JSON file using modern asynchronous methods like fetch.
