@@ -1,0 +1,40 @@
+{
+    "idBadgeSummary": {
+        "totalPending": 4,
+        "totalApprovedInMonth": 0,
+        "totalRejectedInMonth": 0,
+        "latestSubmission": {
+            "updatedAt": "2024-10-09T11:52:08.728Z",
+            "userName": "James Browns"
+        }
+    },
+    "referralSummary": {
+        "totalNewReferrals": 10,
+        "latestReferral": {
+            "updatedAt": "2024-10-21T10:15:25.387Z",
+            "referredByName": "Jason Browns"
+        }
+    },
+    "pollSummary": {
+        "latestPollTitle": "DELETE TESTING QA",
+        "totalInteractions": 14,
+        "pollResults": {
+            "title": "DELETE TESTING QA",
+            "updatedAt": "2024-10-16T09:55:45.013Z"
+        }
+    },
+    "storySummary": {
+        "totalPending": 19,
+        "totalRecords": 58,
+        "latestStory": {
+          "story": "DELETE TESTING QA"
+        }
+    },
+    "latestWellnessNoteSummary": [{
+      "clientName": "BCA",
+      "employeeName": "James",
+      "visitDate": "2024-10-16T09:55:45.013Z",
+      "branch": "BB",
+      "wellnessNote": "test notes"
+    }]
+  } 
